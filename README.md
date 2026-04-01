@@ -58,6 +58,5 @@
 
 ---
 
-**If you want to use this as your GitHub profile README:** copy the contents of this file into `README.md` in your GitHub profile repository (`github.com/SudipEnter/SudipEnter`) and adjust any project links or badges as needed.
 
 -->
