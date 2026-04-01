@@ -22,8 +22,24 @@
 🌐 Socials:
 LinkedIn X
 
+💫 About Me:
+🛠️ I’m currently working on — Leading end-to-end AI/ML platform initiatives; designing MLOps pipelines and production services that scale; improving developer experience and CI/CD for data teams.
+
+👯 I’m looking to collaborate on — Open-source tooling, cross-functional AI projects, and developer productivity efforts that bridge research and production.
+
+🤔 I’m looking for help with — Scaling model deployment, observability for ML systems, and integrating privacy-preserving techniques into pipelines.
+
+🌱 I’m currently learning — Advanced model optimization, distributed training patterns, and the latest in LLM engineering and prompt engineering.
+
+💬 Ask me about — System design for ML, mentoring engineers, building resilient data platforms, and practical MLOps patterns.
+
+⚡ Fun fact — I enjoy turning complex problems into simple, repeatable systems and mentoring engineers to do the same.
+
+🌐 Socials:
+LinkedIn X
+
 💻 Tech Stack:
-JavaScript Java NodeJS NPM nVIDIA Adobe GitLab GitHub
+JavaScript Java NodeJS NPM nVIDIA Adobe GitLab GitHub 
 
 ---
 
