@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**gennext-ship-it/gennext-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Sudip Majumder — AI Strategist & Builder
 
 **AI Strategist focused on agentic and multi‑agent systems, no‑code + LLM workflows for SaaS and SMBs.** I design and ship automation that turns messy manual processes into revenue‑driving, testable AI workflows—moving ideas to deployed systems with minimal engineering overhead.
