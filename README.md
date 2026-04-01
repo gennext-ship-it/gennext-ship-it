@@ -4,7 +4,7 @@
 
 **AI Strategist focused on agentic and multi‑agent systems, no‑code + LLM workflows for SaaS and SMBs.** I design and ship automation that turns messy manual processes into revenue‑driving, testable AI workflows—moving ideas to deployed systems with minimal engineering overhead.
 
----*Current Projects* -->  gennext-ship-it/Smart-Agriculture-Advisor-SAA: Smart Agriculture Advisor (SAA) The Smart Agriculture Advisor is a prediction-first recommendation engine designed to empower smallholder farmers. By fusing historical crop data, high-resolution weather forecasts, soil health metrics, and satellite indices, the system delivers actionable advice.
+---****#Current Projects**** -->  gennext-ship-it/Smart-Agriculture-Advisor-SAA: Smart Agriculture Advisor (SAA) The Smart Agriculture Advisor is a prediction-first recommendation engine designed to empower smallholder farmers. By fusing historical crop data, high-resolution weather forecasts, soil health metrics, and satellite indices, the system delivers actionable advice.
 
 
 💫 About Me:
