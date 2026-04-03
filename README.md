@@ -6,6 +6,24 @@
 
 ---****#Current Projects**** -->  gennext-ship-it/Smart-Agriculture-Advisor-SAA: Smart Agriculture Advisor (SAA) The Smart Agriculture Advisor is a prediction-first recommendation engine designed to empower smallholder farmers. By fusing historical crop data, high-resolution weather forecasts, soil health metrics, and satellite indices, the system delivers actionable advice.
 
+https://github.com/SudipEnter/the-young-adult-afs
+
+https://github.com/SudipEnter/AyurVani
+
+https://github.com/SudipEnter/SkillForge-AI
+
+https://github.com/SudipEnter/ultimate-multilingual-mandi-ai
+
+https://github.com/SudipEnter/ai-sentinel-autonomous
+
+https://github.com/SudipEnter/AI-Powered-Governance-Transforming-Citizen-Service-Delivery
+
+https://github.com/SudipEnter/AI-ML-Data-analytics-project
+
+https://github.com/SudipEnter/storygen-learning
+
+https://github.com/gennext-ship-it/the-young-adult-afs
+
 
 💫 About Me:
 🛠️ I’m currently working on — Leading end-to-end AI/ML platform initiatives; designing MLOps pipelines and production services that scale; improving developer experience and CI/CD for data teams.
