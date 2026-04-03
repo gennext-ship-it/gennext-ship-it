@@ -25,6 +25,9 @@ https://github.com/SudipEnter/storygen-learning
 https://github.com/gennext-ship-it/the-young-adult-afs
 
 
+https://github.com/gennext-ship-it/Smart-Agriculture-Advisor-SAA
+
+
 💫 About Me:
 🛠️ I’m currently working on — Leading end-to-end AI/ML platform initiatives; designing MLOps pipelines and production services that scale; improving developer experience and CI/CD for data teams.
 
