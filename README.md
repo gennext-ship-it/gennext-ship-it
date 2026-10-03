@@ -96,7 +96,8 @@ JavaScript Java NodeJS NPM nVIDIA Adobe GitLab GitHub
 |---|---|
 | **LinkedIn** | https://www.linkedin.com/in/sudip-majumder-lead |
 | **GitHub** | https://github.com/SudipEnter |
-| **Email** | sudip_marketing@zohomail.in |
+| **Email** | super_ai_bharat@proton.me|
+| **Website** |https://sudipm.netlify.app|
 
 ---
 
